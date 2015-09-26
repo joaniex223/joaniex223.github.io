@@ -61,7 +61,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
+  color:salmon;
   font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
   letter-spacing: -1px;
 }
@@ -86,11 +86,11 @@ h4 {
 }
 
 h5 {
-  font-size: 18px;
+  font-size: 21px;
 }
 
 h6 {
-  font-size: 16px;
+  font-size: 21px;
 }
 
 p {
@@ -103,7 +103,7 @@ footer p {
 
 a {
   text-decoration: none;
-  color: #007edf;
+  color: darkblue;
   text-shadow: none;
 
   transition: color 0.5s ease;
@@ -301,14 +301,14 @@ Full-Width Styles
 
 #project_title {
   margin: 0;
-  color: #fff;
+  color: white;
   font-size: 42px;
   font-weight: 700;
   text-shadow: #111 0px 0px 10px;
 }
 
 #project_tagline {
-  color: #fff;
+  color: ivory;
   font-size: 24px;
   font-weight: 300;
   background: none;
